@@ -1,2 +1,2 @@
 # SushiGo
-Replicate the game Sushi Go! to play with friends
+Replicate the game Sushi Go! to play with friends :)
