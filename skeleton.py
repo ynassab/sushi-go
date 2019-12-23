@@ -72,12 +72,6 @@ class Board:
         pass
 
 
-class Player:
-    def __init__(self):
-        # not sure i need to do anything here atm
-        pass
-
-    def
 
 egg_nigiri      = CardType(name='egg nigiri', points=1, count=0, id=0)
 salmon_nigiri   = CardType(name='salmon nigiri', points=2, count=0, id=1)
