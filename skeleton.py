@@ -73,10 +73,10 @@ class Board:
 
 
 
-egg_nigiri      = CardType(name='egg nigiri', points=1, count=0, id=0)
-salmon_nigiri   = CardType(name='salmon nigiri', points=2, count=0, id=1)
-squid_nigiri    = CardType(name='squid nigiri', points=3, count=0, id=2)
-dumpling        = CardType(name='dumpling', points=None, count=0, id=3)
+egg_nigiri      = CardType(name='egg nigiri', points=1, count=3, id=0)
+salmon_nigiri   = CardType(name='salmon nigiri', points=2, count=3, id=1)
+squid_nigiri    = CardType(name='squid nigiri', points=3, count=3, id=2)
+dumpling        = CardType(name='dumpling', points=None, count=3, id=3)
 tempura         = CardType(name='tempura', points=None, count=5, id=4)
 sashimi         = CardType(name='sashimi', points=None, count=7, id=5)
 
